@@ -326,6 +326,55 @@ const APPS: MathApp[] = [
     bucket: "games",
     badge: "لعبة",
   },
+  {
+  id: "game-perimeter-shape",
+  title: "لعبة المحيط",
+  description:
+    "تدريب تفاعلي على حساب محيط الشكل بجمع أطوال الأضلاع (الزوايا لا تُحسب).",
+  url: "https://123456789fh.github.io/Perimeter-of-the-shape-/",
+  bucket: "games",
+  badge: "لعبة",
+},
+{
+  id: "game-area-shape",
+  title: "لعبة المساحة",
+  description: "تدريب تفاعلي على إيجاد مساحة الشكل بعدّ المربعات.",
+  url: "https://123456789fh.github.io/Area-of-the-shape/",
+  bucket: "games",
+  badge: "لعبة",
+},
+{
+  id: "game-balance-division",
+  title: "لعبة ميزان القسمة",
+  description: "تدريب على القسمة عبر الموازنة والتحقق من صحة الناتج.",
+  url: "https://123456789fh.github.io/The-Balance-Game/",
+  bucket: "games",
+  badge: "لعبة",
+},
+{
+  id: "game-maze-division",
+  title: "لعبة المتاهة (القسمة)",
+  description: "حل مسائل القسمة لاجتياز المتاهة بطريقة ممتعة.",
+  url: "https://123456789fh.github.io/Maze-Game-/",
+  bucket: "games",
+  badge: "لعبة",
+},
+{
+  id: "game-distribute-equally",
+  title: "لعبة وزّع بالتساوي",
+  description: "نشاط تفاعلي لفهم معنى القسمة كتوزيع متساوٍ.",
+  url: "https://123456789fh.github.io/Activity/",
+  bucket: "games",
+  badge: "لعبة",
+},
+{
+  id: "game-multiplication-division",
+  title: "استمتع مع القسمة والضرب",
+  description: "أنشطة وتمارين متنوعة لتثبيت مهارات الضرب والقسمة.",
+  url: "https://123456789fh.github.io/Multiplication---Division/",
+  bucket: "games",
+  badge: "لعبة",
+},
 
   // 🎥 مقاطع فيديو وقصص تعليمية (YouTube)
   {
