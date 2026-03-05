@@ -375,6 +375,14 @@ const APPS: MathApp[] = [
   bucket: "games",
   badge: "لعبة",
 },
+  {
+  id: "game-clock-time",
+  title: "تعلم الساعة والوقت",
+  description: "تطبيق تفاعلي لتعلّم قراءة الساعة وضبط الوقت بشكل ممتع.",
+  url: "https://123456789fh.github.io/The-clock-/",
+  bucket: "games",
+  badge: "لعبة",
+},
 
   // 🎥 مقاطع فيديو وقصص تعليمية (YouTube)
   {
