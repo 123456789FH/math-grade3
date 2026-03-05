@@ -553,7 +553,16 @@ const App: React.FC = () => {
           >
             منصّة جدول الضرب
           </button>
-
+          
+{/* 📊 تقارير عمل  */}
+<button
+  onClick={() =>
+    window.open("https://123456789fh.github.io/Reports-Product/", "_blank")
+  }
+  className="nav-link"
+>
+  تقارير
+</button>
           <button onClick={() => scrollToId("about")} className="nav-link">
             عن المنصّة
           </button>
