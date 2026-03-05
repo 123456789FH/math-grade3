@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import platformLogo from "./assets/platform-logo.png";
 type SideBucket = "apps" | "games" | "worksheets" | "videos";
 
 interface MathApp {
@@ -530,7 +530,7 @@ const App: React.FC = () => {
       {/* الشريط العلوي */}
       <header className="top-bar">
         <div className="top-bar-left">
-          <img src="/math-logo.png" alt="شعار المنصّة" className="logo" />
+         <img src={platformLogo} alt="شعار المنصة" className="logo" />
           <div>
             <h1 className="site-title">منصّة رياضيات الصف الثالث الابتدائي</h1>
             <p className="site-subtitle">
