@@ -383,6 +383,7 @@ const APPS: MathApp[] = [
   bucket: "games",
   badge: "لعبة",
 },
+   {
 
   // 🎥 مقاطع فيديو وقصص تعليمية (YouTube)
   {
